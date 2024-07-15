@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fretionte.github.io/sitemap
+Sitemap: https://fretionte.github.io/app/sitemap
+Sitemap: https://fretionte.github.io/assets/sitemap
+Sitemap: https://fretionte.github.io/css/sitemap
+Sitemap: https://fretionte.github.io/includes/sitemap
+Sitemap: https://fretionte.github.io/item/sitemap
+Sitemap: https://fretionte.github.io/src/sitemap
